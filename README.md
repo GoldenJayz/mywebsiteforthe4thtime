@@ -19,6 +19,7 @@ Coming Soon!
   <li>A footer</li>
   <li>Hover effects</li>
   <li>Slick Animations</li>
+  <li>Adding my Socials and icons for them</li>
 </ul>
 
 ## Beta Images
