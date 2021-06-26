@@ -1,5 +1,5 @@
 # jadend.xyz
-Source code for Jaden.xyz
+Source code for jaden.xyz
 
 ## Live Example
 Coming Soon!
