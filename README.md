@@ -17,7 +17,7 @@ Coming Soon!
   <li>Other pages expressing my interests</li>
   <li>Fresh About Page</li>
   <li>A footer</li>
-  <li>Hover effects<li>
+  <li>Hover effects</li>
 </ul>
 
 ## Beta Images
