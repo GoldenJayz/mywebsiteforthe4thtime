@@ -18,6 +18,7 @@ Coming Soon!
   <li>Fresh About Page</li>
   <li>A footer</li>
   <li>Hover effects</li>
+  <li>Slick Animations</li>
 </ul>
 
 ## Beta Images
