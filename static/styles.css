@@ -1,0 +1,162 @@
+@font-face {
+  font-family: chopsic;
+  src: url("chopsic.ttf");
+}
+
+@font-face {
+  font-family: above;
+  src: url("ABOVE.ttf");
+}
+
+html {
+  margin: 0;
+}
+
+.navbar-brand {
+  font-family: "Roboto", sans-serif;
+}
+
+#firstback {
+  left: 0;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  height: 600px;
+  width: 100% !important;
+  float: left;
+}
+
+nav {
+  z-index: 1;
+}
+
+/* optimize for mobile */
+
+#maintxt {
+  position: relative;
+  text-align: center;
+  top: 200px;
+}
+
+@media only screen and (max-width: 600px) {
+  #firstback {
+    left: 0;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    height: 400px;
+    width: 100% !important;
+    float: left;
+  }
+
+  #textoverimage {
+    height: 400px !important;
+  }
+
+  #maintxt {
+    position: relative;
+    text-align: center;
+    z-index: 2;
+  }
+
+  #puck {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 9vh !important;
+  }
+
+  .obama {
+    background-color: #e6ede8;
+    border-radius: 20px;
+    margin: 0 auto !important;
+    display: block !important;
+    position: relative;
+    width: 50% !important;
+  }
+
+  #puck {
+    margin: 50px auto !important;
+    display: block !important;
+    position: relative;
+    width: 50% !important;
+  }
+}
+
+.fuck {
+  position: absolute;
+  margin-top: 45px;
+  width: 100%;
+  height: 256px;
+}
+
+.a {
+  position: relative;
+  margin-top: 250px;
+}
+
+.pickle {
+  float: left;
+  background-color: #e6ede8;
+  border-radius: 20px;
+  display: block !important;
+  position: relative;
+  width: 40%;
+  margin-left: 5%;
+}
+
+
+#imageleft {
+  margin-left: 20%;
+}
+
+.obama {
+  background-color: #e6ede8;
+  border-radius: 20px;
+  margin-left: 30%;
+  display: block !important;
+  position: relative;
+  width: 20%;
+  display: inline-block;
+}
+
+article {
+  height: 100%;
+}
+
+#textoverimage {
+  height: 600px;
+}
+
+
+
+@media only screen and (min-width: 601px) {
+  #puck {
+    margin: 0 auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+  .obama {
+    background-color: #e6ede8;
+    border-radius: 20px;
+    margin: 0 auto !important;
+    display: block !important;
+    position: relative;
+    width: 50% !important;
+  }
+}
+
+
+@media only screen and (min-width: 1320px) {
+  #puck {
+    float: right;
+    margin-right: 27%;
+    height: 170px !important;
+    width: auto;
+  }
+  .obama {
+    width: 40% !important;
+    margin-left: 20% !important;
+  }
+}
