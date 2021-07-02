@@ -71,10 +71,18 @@ nav {
 
 
 #textoverimage {
-  background: url(background.jpg);
+  background: url("temple.jpg");
   height: 600px;
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+  background-position: center;
+}
+
+h1 {
+  -webkit-font-smoothing: antialised;
+backface-visibility: hidden;
+transform: translateZ(0);
+-webkit-font-smoothing: subpixel-antialiased;
 }
