@@ -22,5 +22,8 @@ Coming Soon!
   <li>Adding my Socials and icons for them</li>
 </ul>
 
+## Contributors
+A4R7bluep - Suggested to remove view button and just make the card clickable
+
 ## Beta Images
 <img src="Capture.PNG">
