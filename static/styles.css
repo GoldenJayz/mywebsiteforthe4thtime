@@ -67,3 +67,14 @@ nav {
     z-index: 2;
   }
 }
+
+
+
+#textoverimage {
+  background: url(background.jpg);
+  height: 600px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
