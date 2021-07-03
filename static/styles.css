@@ -82,7 +82,15 @@ nav {
 
 h1 {
   -webkit-font-smoothing: antialised;
-backface-visibility: hidden;
-transform: translateZ(0);
--webkit-font-smoothing: subpixel-antialiased;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+.card:hover {
+  box-shadow: 0 1rem 1rem rgba(0,0,0,.15) !important;
+}
+
+.card {
+  transition: 1s;
 }
